@@ -1875,13 +1875,65 @@ body {
 .cid-r9N4ZKhHOF {
   background-image: url("../../../assets/images/venetie-2000x1414.jpg");
 }
-.cid-r9N5YDMPwu {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-r9Nal2T9xT {
+  padding-top: 120px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-r9N5YDMPwu .mbr-section-subtitle {
-  color: #767676;
+.cid-r9Nal2T9xT .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-r9Nal2T9xT .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-r9Nal2T9xT .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-r9Nal2T9xT .mbr-text {
+    text-align: center;
+  }
+}
+.cid-r9Nal2T9xT H1 {
+  color: #232323;
+}
+.cid-r9Nal2T9xT .mbr-text,
+.cid-r9Nal2T9xT .mbr-section-btn {
+  color: #232323;
+}
+.cid-r9NamawnNF {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-r9NamawnNF .title {
+  margin-bottom: 2rem;
+}
+.cid-r9NamawnNF .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-r9NamawnNF a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-r9NamawnNF a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-r9NamawnNF .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-r9NamawnNF .input-group-btn {
+  display: block;
+  text-align: center;
 }
 .cid-r9yHlXTytW .navbar {
   background: #ffffff;
